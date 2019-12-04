@@ -1,7 +1,8 @@
 # CS122AProject
 
 Files for Milestone 1:\
-[SNESControllerWithLCDTest.c](https://github.com/ehauf001/CS122AProject/blob/master/SNESControllerWithLCDTest.c)
+[SNESControllerWithLCDTest.c](https://github.com/ehauf001/CS122AProject/blob/master/SNESControllerWithLCDTest.c)\
+[milestone1wiring.png](https://github.com/ehauf001/CS122AProject/blob/master/milestone1wiring.png)
 
 Files for Milestone 2:\
 [ControllerBluetoothTest.c](https://github.com/ehauf001/CS122AProject/blob/master/ControllerBluetoothTest.c)\
