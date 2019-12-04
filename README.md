@@ -9,8 +9,10 @@ Files for Milestone 1:\
 Files for Milestone 2:\
 [ControllerBluetoothTest.c](https://github.com/ehauf001/CS122AProject/blob/master/ControllerBluetoothTest.c)\
 [CarBluetoothTest.c](https://github.com/ehauf001/CS122AProject/blob/master/CarBluetoothTest.c)\
+[Milestone2Wiring.png](https://github.com/ehauf001/CS122AProject/blob/master/Milestone2Wiring.png)\
 [Milestone2ControllerPic.png](https://github.com/ehauf001/CS122AProject/blob/master/Milestone2ControllerPic.png)\
 [Milestone2ReceiverPic.png](https://github.com/ehauf001/CS122AProject/blob/master/Milestone2ReceiverPic.png)
+
 
 Files for Final Demo:\
 [ControllerFINAL.c](https://github.com/ehauf001/CS122AProject/blob/master/ControllerFINAL.c)\
