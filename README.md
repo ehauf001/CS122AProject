@@ -17,5 +17,6 @@ Files for Milestone 2:\
 Files for Final Demo:\
 [ControllerFINAL.c](https://github.com/ehauf001/CS122AProject/blob/master/ControllerFINAL.c)\
 [RCCarFINAL.c](https://github.com/ehauf001/CS122AProject/blob/master/RCCarFINAL.c)\
+[FinalWiring.png](https://github.com/ehauf001/CS122AProject/blob/master/FinalWiring.png)\
 [FinalControllerPic.png](https://github.com/ehauf001/CS122AProject/blob/master/FinalControllerPic.png)\
 [FinalRCCarPic.png](https://github.com/ehauf001/CS122AProject/blob/master/FinalRCCarPic.png)
