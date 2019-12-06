@@ -41,7 +41,7 @@ void USARTGET(){
 		else{
 			set_PWM(0);
 		}
-		//USART_Flush(0);
+		USART_Flush(0);
 	}
 }
 
